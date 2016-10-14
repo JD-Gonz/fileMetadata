@@ -1,0 +1,23 @@
+{
+  "name": "file_metadata",
+  "version": "1.0.0",
+  "description": "Microservice that reads given files metadata",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgonz001/fileMetadata.git"
+  },
+  "author": "JD Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgonz001/fileMetadata/issues"
+  },
+  "homepage": "https://github.com/dgonz001/fileMetadata#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "multer": "^1.2.0"
+  }
+}
